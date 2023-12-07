@@ -11,12 +11,12 @@ There are two main types of network traffic mirroring: SPAN (Switch Port Analyze
 - Limited visibility: only sees traffic passing through a specific port.
 - Non-intrusive: no impact on network performance.
 - Widely supported: most modern switches offer SPAN functionality.
-![Network Switch SPAN](www.garlandtechnology.com)  
+![Network Switch SPAN](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIHiUPKV-i7y1DzR1oKCe4JH19NtaoGRCqvNJ36t3Lnd8OJTg_b5LTkPltOHZy)  
 
 ### 2.2 TAP
 - Hardware-based: requires a dedicated device inserted into the network path.
 - Full visibility: provides access to all traffic flowing through the monitored link.
-![Network TAP device](www.profitap.com)  
+![Network TAP device](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMmTA2ac0ieezgptBL0vkJ-lmf5U6eSZhCWqIXrcFMyHY8eZQWBFfAhrfLozaT)  
 
 - Potentially intrusive: may introduce performance overhead.
 - Costly: involves additional hardware purchase.
